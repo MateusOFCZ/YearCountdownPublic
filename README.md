@@ -12,5 +12,6 @@ Click [here](https://mateusofcz.github.io/YearCountdown/#/) to see a demo of thi
 <hr>
 
 ## Routes
-- **[/menu](https://mateusofcz.github.io/YearCountdown/#/menu)**: Accesses the Year Countdown and opens the settings menu.
-- **[/bugreport](https://mateusofcz.github.io/YearCountdown/#/bugreport)**: If you are logged in with your GitHub account, access the Year Countdown and open the form to report a bug.
+- **[/menu](https://mateusofcz.github.io/YearCountdown/#/menu):** Accesses the Year Countdown and opens the settings menu.
+- **[/bugreport](https://mateusofcz.github.io/YearCountdown/#/bugreport):** If you are logged in with your GitHub account, access the Year Countdown and open the form to report a bug.
+- **[/createtranslation](https://mateusofcz.github.io/YearCountdown/#/createtranslation):** If you are logged in with your GitHub account, go to Year Countdown and open the form to create a new website translation language.
